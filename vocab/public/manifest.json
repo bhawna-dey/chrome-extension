@@ -1,0 +1,15 @@
+{
+  "manifest_version":2,
+  "name":"Better Vocab",
+  "author":"Bhawna",
+  "version":"1.0.1",
+  "desription":"Replace new tab screen with English word",
+  "icons":{
+    "16":"vocabFav16.ico",
+    "48":"vocabFav48.ico",
+    "128":"vocabFav128.ico"
+  },
+  "chrome_url_overrides":{
+    "newtab":"index.html"
+  }
+}
